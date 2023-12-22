@@ -1,4 +1,5 @@
 import '../styles/video.scss'
+import React from 'react';
 
 export default function Video() {
   return (
