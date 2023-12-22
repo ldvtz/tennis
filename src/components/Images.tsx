@@ -1,7 +1,4 @@
 import '../styles/images.scss'
-import tennisRacket from '../assets/tennis-racket.png'
-import tennisBalls from '../assets/tennis-balls.png'
-import rogerFederer from '../assets/roger-federer.png'
 
 export default function Images() {
   return (
@@ -18,7 +15,7 @@ export default function Images() {
             </div>
             <div className="images-container-content">
               <img
-                  src={tennisRacket}
+                  src="src/assets/tennis-racket.png"
                   className="images-container-content-image"
               />
             </div>
@@ -29,7 +26,7 @@ export default function Images() {
             </div>
             <div className="images-container-content">
               <img
-                src={tennisBalls}
+                src="src/assets/tennis-balls.png"
                 className="images-container-content-image"
               />
             </div>
@@ -40,7 +37,7 @@ export default function Images() {
             </div>
             <div className="images-container-content">
               <img
-                src={rogerFederer}
+                src="src/assets/roger-federer.png"
                 className="images-container-content-image"
               />
             </div>
