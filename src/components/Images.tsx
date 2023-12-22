@@ -16,7 +16,7 @@ export default function Images() {
             </div>
             <div className="images-container-content">
               <img
-                  src="/src/assets/tennis-racket.png"
+                  src="/tennis-racket.png"
                   className="images-container-content-image"
               />
             </div>
@@ -27,7 +27,7 @@ export default function Images() {
             </div>
             <div className="images-container-content">
               <img
-                src="/src/assets/tennis-balls.png"
+                src="/tennis-balls.png"
                 className="images-container-content-image"
               />
             </div>
@@ -38,7 +38,7 @@ export default function Images() {
             </div>
             <div className="images-container-content">
               <img
-                src="/assets/roger-federer.png"
+                src="/roger-federer.png"
                 className="images-container-content-image"
               />
             </div>

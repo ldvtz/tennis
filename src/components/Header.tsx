@@ -22,7 +22,7 @@ export default function Header({ setCurrentPage }) {
               className="header-container-logo-link"
               onClick={() => setCurrentPage('home')}
             >
-              <img className="header-container-logo" src="src/assets/tennis.svg" alt="Logo E-Portfolio"/>
+              <img className="header-container-logo" src="/tennis.svg" alt="Logo E-Portfolio"/>
             </a>
           </div>
           <div className="header-container-test">
