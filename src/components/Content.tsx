@@ -2,6 +2,7 @@ import '../styles/content.scss'
 import Images from "./Images";
 import Video from "./Video";
 import Home from "./Home";
+import React from 'react';
 
 export default function Content({ currentPage }) {
 
