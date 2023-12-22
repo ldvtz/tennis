@@ -1,5 +1,4 @@
 import '../styles/header.scss'
-import tennisLogo from '../assets/tennis.svg'
 import { useState, useEffect } from 'react'
 
 export default function Header({ setCurrentPage }) {
@@ -22,7 +21,7 @@ export default function Header({ setCurrentPage }) {
               className="header-container-logo-link"
               onClick={() => setCurrentPage('home')}
             >
-              <img className="header-container-logo" src={tennisLogo} alt="Logo E-Portfolio"/>
+              <img className="header-container-logo" src="src/assets/tennis.svg" alt="Logo E-Portfolio"/>
             </a>
           </div>
           <div className="header-container-test">

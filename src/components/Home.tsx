@@ -1,5 +1,4 @@
 import '../styles/content.scss'
-import tennisRacket from '../assets/tennis-racket.png'
 
 export default function Home() {
   return (
@@ -15,7 +14,7 @@ export default function Home() {
           </div>
           <div className="container">
             <div className="container-wrapper">
-              <img className="container-wrapper-image" src={tennisRacket} alt="Tennis Racket" />
+              <img className="container-wrapper-image" src="src/assets/tennis-racket.png" alt="Tennis Racket" />
             </div>
           </div>
         </div>
