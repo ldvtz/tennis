@@ -38,7 +38,7 @@ export default function Images() {
             </div>
             <div className="images-container-content">
               <img
-                src="/src/assets/roger-federer.png"
+                src="/assets/roger-federer.png"
                 className="images-container-content-image"
               />
             </div>
