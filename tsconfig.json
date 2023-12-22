@@ -3,6 +3,8 @@
     "moduleResolution": "bundler",
     "esModuleInterop": true,
     "jsx": "react",
+    "module": "es2015",
+
     // other options...
   },
   // other configurations...
